@@ -50,9 +50,9 @@ Try at least five shops and occasions in the running app. Check that the emails 
 
 ## App interface
 
-![App interface](screenshots\Input2.PNG)
+![App interface](screenshots/Input2.PNG)
 
 ## Generated emails
 
-![Generated emails](screenshots\Output2.PNG)
+![Generated emails](screenshots/Output2.PNG)
 
